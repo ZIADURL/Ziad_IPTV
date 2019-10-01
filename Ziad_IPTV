@@ -361,8 +361,40 @@ http://188.72.4.230:8000/mytv/My1p@9090/202
 #EXTINF:-1 tvg-id="" tvg-name="Uk- Sky True Movies 2" tvg-logo="" group-title="UK",Uk- Sky True Movies 2
 http://188.72.4.230:8000/mytv/My1p@9090/201
 
-
-#EXTINF:-1 VOD-id="" tvg-name="A Vigilante - 2019" tvg-logo="" group-title="VOD 2019",A Vigilante - 2019
+#EXTINF:-1,group-title="VOD 2019",A Vigilante - 2019
 http://188.72.4.230:8000/movie/mytv/My1p@9090/385.mp4
 #EXTINF:-1,group-title="VOD 2019",Aquaman - 2019
 http://188.72.4.230:8000/movie/mytv/My1p@9090/386.mp4
+#EXTINF:-1,group-title="VOD 2019", I Hate Kids - 2019
+http://188.72.4.230:8000/movie/mytv/My1p@9090/392.mp4
+#EXTINF:-1,group-title="VOD 2019", Kedba Bidaa - 2019
+http://188.72.4.230:8000/movie/mytv/My1p@9090/383.mp4
+#EXTINF:-1,group-title="VOD 2019", Replicas - 2019
+http://188.72.4.230:8000/movie/mytv/My1p@9090/387.mp4
+#EXTINF:-1,group-title="VOD 2019", Serenity - 2019
+http://188.72.4.230:8000/movie/mytv/My1p@9090/384.mp4
+#EXTINF:-1,group-title="VOD 2019", The Mule -  2019
+http://188.72.4.230:8000/movie/mytv/My1p@9090/391.mp4
+#EXTINF:-1,group-title="VOD 2019", The Upside - 2019
+http://188.72.4.230:8000/movie/mytv/My1p@9090/388.mp4
+#EXTINF:-1,group-title="VOD 2019", Velvet Buzzsaw - 2019
+http://188.72.4.230:8000/movie/mytv/My1p@9090/390.mp4
+#EXTINF:-1,group-title="VOD 2019", Vice - 2019
+http://188.72.4.230:8000/movie/mytv/My1p@9090/389.mp4
+#EXTINF:-1,group-title="Series 2019", Breaking Bad S00 E01
+http://188.72.4.230:8000/series/mytv/My1p@9090/393.mp4
+#EXTINF:-1,group-title="Series 2019", Breaking Bad S00 E02
+http://188.72.4.230:8000/series/mytv/My1p@9090/394.mp4
+#EXTINF:-1,group-title="Series 2019", Breaking Bad S00 E03
+http://188.72.4.230:8000/series/mytv/My1p@9090/395.mp4
+#EXTINF:-1,group-title="Series 2019", Vikings S00 E01
+http://188.72.4.230:8000/series/mytv/My1p@9090/396.mkv
+#EXTINF:-1,group-title="Series 2019", Vikings S00 E02
+http://188.72.4.230:8000/series/mytv/My1p@9090/397.mkv
+#EXTINF:-1,group-title="Series 2019", Vikings S00 E03
+http://188.72.4.230:8000/series/mytv/My1p@9090/398.mkv
+#EXTINF:-1,group-title="Series 2019", Vikings S00 E04
+http://188.72.4.230:8000/series/mytv/My1p@9090/399.mkv
+#EXTINF:-1,group-title="Series 2019", Vikings S00 E05
+http://188.72.4.230:8000/series/mytv/My1p@9090/400.mkv
+
