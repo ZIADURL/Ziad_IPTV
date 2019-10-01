@@ -123,7 +123,7 @@ http://188.72.4.230:8000/mytv/My1p@9090/57
 http://188.72.4.230:8000/mytv/My1p@9090/56
 #EXTINF:-1 tvg-id="" tvg-name="OSN Comedy Central" tvg-logo="" group-title="OSN",OSN Comedy Central
 http://188.72.4.230:8000/mytv/My1p@9090/41
-#EXTINF:-1 tvg-id="" tvg-name="My- Fox Crime HD" tvg-logo="" group-title="MyHD",My- Fox Crime HD
+#EXTINF:-1 tvg-id="" tvg-name="My- Fox Crime HD" tvg-logo="" group-title="UK",My- Fox Crime HD
 http://188.72.4.230:8000/mytv/My1p@9090/18
 #EXTINF:-1 tvg-id="" tvg-name="Ar- Nat Geo AD HD" tvg-logo="" group-title="Arabic",Ar- Nat Geo AD HD
 http://188.72.4.230:8000/mytv/My1p@9090/359
