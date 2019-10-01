@@ -1,311 +1,363 @@
 #EXTM3U
-#EXTINF:0,MBC 1 (HD)
-http://livecdnh2.tvanywhere.ae/hls/mbc1/05.m3u8?fluxustv.m3u8
-#EXTINF:0,MBC 1 (SD)
-http://livecdnh2.tvanywhere.ae/hls/mbc1/index.m3u8?fluxustv.m3u8
-#EXTINF:0,MBC 2 (HD)
-http://livecdnh3.tvanywhere.ae/hls/mbc2/05.m3u8?fluxustv.m3u8
-#EXTINF:0,MBC 2 (SD)
-http://livecdnh3.tvanywhere.ae/hls/mbc2/index.m3u8?fluxustv.m3u8
-#EXTINF:0,MBC 3 (HD)
-http://livecdnh2.tvanywhere.ae/hls/mbc3/05.m3u8?fluxustv.m3u8
-#EXTINF:0,MBC 3 (SD)
-http://livecdnh2.tvanywhere.ae/hls/mbc3/index.m3u8?fluxustv.m3u8
-#EXTINF:0,MBC 4 (HD)
-http://livecdnh3.tvanywhere.ae/hls/mbc4/05.m3u8?fluxustv.m3u8
-#EXTINF:0,MBC 4 (SD)
-http://livecdnh3.tvanywhere.ae/hls/mbc4/index.m3u8?fluxustv.m3u8
-#EXTINF:0,MBC Action (HD)
-http://livecdnh3.tvanywhere.ae/hls/mbcaction/05.m3u8?fluxustv.m3u8
-#EXTINF:0,MBC Action (HD-2)
-http://free-iptv.pro:8000/LL121596/TOaNInWvKZ/2438
-#EXTINF:0,MBC Action (SD)
-http://livecdnh3.tvanywhere.ae/hls/mbcaction/index.m3u8?fluxustv.m3u8
-#EXTINF:0,MBC Bollywood (Opt-1)
-http://livecdnh2.tvanywhere.ae:80/hls/mbc_bolly/index.m3u8
-#EXTINF:0,MBC Bollywood (Opt-2)
-http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/index.m3u8
-#EXTINF:0,MBC Drama (HD)
-http://livecdnh2.tvanywhere.ae:80/hls/mbc_drama/05.m3u8
-#EXTINF:0,MBC Drama (SD)
-http://livecdnh2.tvanywhere.ae:80/hls/mbc_drama/index.m3u8
-#EXTINF:0,MBC Drama Plus
-http://free-iptv.pro:8000/LL121596/TOaNInWvKZ/10722
-#EXTINF:0,MBC Iraq (Opt-1)
-http://free-iptv.pro:8000/LL121596/TOaNInWvKZ/54971
-#EXTINF:0,MBC Iraq (Opt-2)
-http://95.170.215.103/hls/m3u8/MBC-IRAQ-Backup.m3u8
-#EXTINF:0,MBC Masr
-http://livecdnh2.tvanywhere.ae:80/hls/mbc_msr/index.m3u8
-#EXTINF:0,MBC Masr (Opt-2)
-http://livecdnh2.tvanywhere.ae/hls/mbc_msr/index.m3u8
-#EXTINF:0,MBC Max (HD)
-http://livecdnh3.tvanywhere.ae/hls/mbcmax/05.m3u8?fluxustv.m3u8
-#EXTINF:0,MBC Max (SD)
-http://livecdnh3.tvanywhere.ae/hls/mbcmax/index.m3u8?fluxustv.m3u8
-#EXTINF:0,MBC Variety
-http://free-iptv.pro:8000/LL121596/TOaNInWvKZ/8466
-#EXTINF:0,Hollywood Movies 1
-http://185.228.19.115:8009/Movies1/mono.m3u8?token=4xqfYjeH82
-#EXTINF:0,Hollywood Movies 1 (New!)
-http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
-#EXTINF:0,Hollywood Movies 2
-http://185.228.19.115:8009/Movies2/mono.m3u8?token=4xqfYjeH82
-#EXTINF:0,Hollywood Movies 2 (New!)
-http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
-#EXTINF:0,Hollywood Movies 3
-http://185.228.19.115:8009/Movies3/mono.m3u8?token=4xqfYjeH82
-#EXTINF:0,Hollywood Movies 3 (New!)
-http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
-#EXTINF:0,Hollywood Movies 4
-http://185.228.19.115:8009/Movies4/mono.m3u8?token=4xqfYjeH82
-#EXTINF:0,Hollywood Movies 4 (New!)
-https://aldirect.hls.huya.com/huyalive/30765679-2554414567-10971127025691000832-3048991638-10057-A-0-1_1200.m3u8
-#EXTINF:0,Hollywood Movies 5
-http://185.228.19.115:8009/Movies5/mono.m3u8?token=4xqfYjeH82
-#EXTINF:0,Hollywood Movies 5 (New!)
-https://aldirect.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
-#EXTINF:0,Hollywood Movies 6
-http://185.228.19.115:8009/Movies6/mono.m3u8?token=4xqfYjeH82
-#EXTINF:0,Hollywood Movies 6 (New!)
-http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
-#EXTINF:0,Hollywood Movies 7 (New!)
-http://tx.hls.huya.com/huyalive/29106097-2689286606-11550398022340837376-2789274544-10057-A-0-1.m3u8
-#EXTINF:0,Hollywood Movies 8 (New!)
-http://tx.hls.huya.com/huyalive/29106097-2689447600-11551089486305689600-2789274568-10057-A-1525420695-1.m3u8
-#EXTINF:0,Hollywood Movies 9 (New!)
-http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
-#EXTINF:0,Rotana Aflam
-http://livecdnh3.tvanywhere.ae/hls/rotaflam/index.m3u8
-#EXTINF:0,Rotana Cinema
-http://livecdnh3.tvanywhere.ae/hls/rotcinema/index.m3u8
-#EXTINF:0,Rotana Classic
-http://livecdnh3.tvanywhere.ae/hls/rotclassic/index.m3u8
-#EXTINF:0,Rotana Clip
-http://livecdnh3.tvanywhere.ae/hls/rotclip/index.m3u8
-#EXTINF:0,Rotana Drama
-http://livecdnh3.tvanywhere.ae/hls/rotmas/index.m3u8
-#EXTINF:0,Rotana Khalijiah
-http://livecdnh3.tvanywhere.ae/hls/rotkhal/index.m3u8
-#EXTINF:0,beIN Movies 1 (Opt-1)
-http://free-iptv.pro:8000/LL121596/TOaNInWvKZ/53418
-#EXTINF:0,beIN Movies 1 (Opt-2)
-http://free-iptv.pro:8000/LL121596/TOaNInWvKZ/53414
-#EXTINF:0,beIN Movies 2
-http://free-iptv.pro:8000/LL121596/TOaNInWvKZ/53419
-#EXTINF:0,beIN Movies 3
-http://free-iptv.pro:8000/LL121596/TOaNInWvKZ/53420
-#EXTINF:0,beIN Movies 4
-http://free-iptv.pro:8000/LL121596/TOaNInWvKZ/53423
-#EXTINF:0,beIN Series 1
-http://free-iptv.pro:8000/LL121596/TOaNInWvKZ/53421
-#EXTINF:0,beIN Series 2
-http://free-iptv.pro:8000/LL121596/TOaNInWvKZ/53422
-#EXTINF:0,beIN Sports 12
-http://free-iptv.pro:8000/LL121596/TOaNInWvKZ/33272
-#EXTINF:0,beIN Sports 6
-http://94.236.230.110:3333/6
-#EXTINF:0,beIN Sports 7
-http://free-iptv.pro:8000/LL121596/TOaNInWvKZ/33267
-#EXTINF:0,beIN Sports 8
-http://94.236.230.110:3333/8
-#EXTINF:0,beIN Sports 9
-http://free-iptv.pro:8000/LL121596/TOaNInWvKZ/33269
-#EXTINF:0,24-7 Retro TV
-http://247retrotv.com:1935/live/smil:247retro.smil/playlist.m3u8
-#EXTINF:0,24/7 Cased Closed
-https://al.flv.nimo.tv/live/su1599512427561r32f86ec41ff353df5fd649beb68e6388_mid.flv?fluxustv.flv
-#EXTINF:0,24/7 Doraemon
-https://ws.flv.nimo.tv/live/su1599512427553r467469e0bc83c5de73f4d151682fb530_high.flv?fluxustv.flv
-#EXTINF:0,24/7 Doraemon Films
-https://al.flv.nimo.tv/live/su1599512427578r00bac8d56488f6ca2d6915fb95ab88e8_high.flv?fluxustv.flv
-#EXTINF:0,24/7 Friends (New!)
-http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
-#EXTINF:0,24/7 Kuroko's Basketball
-http://aldirect.hls.huya.com/huyalive/94525224-2604793726-11187503865995984896-3049003148-10057-A-0-1_1200.m3u8
-#EXTINF:0,24/7 Los Simpson
-http://iptv.wtf:25461/live/arqxoxjd/ba6626FuzH/5571.m3u8
-#EXTINF:0,24/7 Marvel Movies (New!)
-http://tx.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1.m3u8
-#EXTINF:0,24/7 Resident Evil Movies (New!)
-https://aldirect.hls.huya.com/huyalive/28466698-2689654156-11551976637570482176-2847699186-10057-A-0-1_1200.m3u8
-#EXTINF:0,24/7 Scenes de Menages
-http://opus.cf/allfrtvstrm/tkn/scenes/i/index.m3u8?fluxustv.m3u8
-#EXTINF:0,24/7 Sci-Fi Movies (New!)
-http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
-#EXTINF:0,24/7 The Big Bang Theory (New!)
-https://aldirect.hls.huya.com/huyalive/29169025-2686221732-11537234488744476672-2847699168-10057-A-0-1_1200.m3u8
-#EXTINF:0,Fox
-https://1.ip2stream.icu/live/fox_hd/playlist.m3u8
-#EXTINF:0,Fox
-http://cdn2.bear-tv.com/freetv/TOT_foxthai_eng/playlist.m3u8
-#EXTINF:0,Fox (Opt-1)
-http://streams.livetv.az/turk/fox_stream/playlist.m3u8
-#EXTINF:0,Fox (Opt-2)
-http://blutv-beta.akamaized.net/foxtvhd/foxtvhd.smil/playlist.m3u8
-#EXTINF:0,Fox 5 News (Washington DC)
-https://api.new.livestream.com/accounts/2363281/events/1763520/live.m3u8
-#EXTINF:0,Fox Animation
-https://1.ip2stream.icu/live/fox_animation_hd/playlist.m3u8
-#EXTINF:0,Fox Comedy
-https://1.ip2stream.icu/live/fox_comedy_hd/chunks.m3u8
-#EXTINF:0,Fox Crime
-https://1.ip2stream.icu/live/fox_crime_hd/chunks.m3u8
-#EXTINF:0,Fox Life
-https://1.ip2stream.icu/live/fox_life_hd/playlist.m3u8
-#EXTINF:0,Fox News
-https://1329918864.rsc.cdn77.org/ls-54548-1/index.m3u8?fluxustv.m3u8
-#EXTINF:0,Fox News Radio
-http://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
-#EXTINF:0,Fox Sports
-http://45.58.62.92:8080
-#EXTINF:0,Fox Sports
-http://stitcher.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:0,Fox Sports News
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
-#EXTINF:0,Fox TV
-http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
-#EXTINF:0,Sky Arte
-https://1.ip2stream.icu/live/sky_arte_hd/chunks.m3u8
-#EXTINF:0,Sky Cinema Collection
-https://1.ip2stream.icu/live/sky_cinema_hits_hd/playlist.m3u8
-#EXTINF:0,Sky Cinema Comedy
-https://1.ip2stream.icu/live/sky_cinema_comedy_hd/playlist.m3u8
-#EXTINF:0,Sky Cinema Family
-https://1.ip2stream.icu/live/sky_cinema_family_hd/playlist.m3u8
-#EXTINF:0,Sky Cinema Uno +24
-https://1.ip2stream.icu/live/sky_cinema_24_hd/playlist.m3u8
-#EXTINF:0,Sky Folk TV
-http://skyfolk.mk/live.m3u8
-#EXTINF:0,Sky News (GB)
-https://stream.skynewsarabia.com/hls/sna_720.m3u8
-#EXTINF:0,Sky News (HD)
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8
-#EXTINF:0,Sky News (Opt-1)
-http://ax.micaesoft.com/YMitv/YMITV_UK_UKskytv_2.m3u8?fluxustv.m3u8
-#EXTINF:0,Sky News (Opt-2)
-http://ax.micaesoft.com/YMitv/YMITV_US_USnasatv_1.m3u8?fluxustv.m3u8
-#EXTINF:0,Sky News (SD)
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
-#EXTINF:0,Sky News (UK)
-http://d59pscns5ugc8.cloudfront.net/cdhls/skynewsamericas/1013/live/06.m3u8
-#EXTINF:0,Sky News Extra 1
-https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
-#EXTINF:0,Sky News Extra 2
-https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
-#EXTINF:0,Sky News Extra 3
-https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
-#EXTINF:0,Sky Sport 24
-https://1.ip2stream.icu/live/sky_sport_24_hd/playlist.m3u8
-#EXTINF:0,Sky Sport Moto GP
-https://1.ip2stream.icu/live/sky_sport_motogp_hd/playlist.m3u8
-#EXTINF:0,Sky TG24 (Opt-1)
-http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/playlist.m3u8
-#EXTINF:0,Sky TG24 (Opt-2)
-http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/playlist.m3u8
-#EXTINF:0,Movee 4U 
-https://nimble.dashmedia.tv/onestudio/movee4u/playlist.m3u8
-#EXTINF:0,Service
-http://stitcher.pluto.tv/stitch/hls/channel/564b9ed65fbbbca07e8d09d2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=4eeea560-71a7-11e8-bcb5-a1b59b812cd7&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
-#EXTINF:0,Movies 2
-http://stitcher.pluto.tv/stitch/hls/channel/59976841a09fd13c9b590ce8/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:0,MTN
-http://edge1.everyon.tv:1935/etv1sb/phd18/playlist.m3u8
-#EXTINF:0,MTV
-http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8?fluxustv.m3u8
-#EXTINF:0,MTV
-https://stitcher.pluto.tv/stitch/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=dcuqage0urlhccbp8kbecjc830
-#EXTINF:0,MTV
-http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
-#EXTINF:0,MTV (Opt-1)
-http://livecdnh3.tvanywhere.ae/hls/MTVLbnHD/index.m3u8
-#EXTINF:0,MTV (Opt-2)
-http://95.170.215.109/hls/MTV-Backup-M.m3u8
-#EXTINF:0,MTV Dance
-http://91dfeb88.iptvzone.me/iptv/3RD7RBR9A3CVSX/558/index.m3u8
-#EXTINF:0,MTV Dating
-https://stitcher.pluto.tv/stitch/hls/channel/5ca6899a37b88b269472ea4b/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=hcuqage0urlhccbp8kbecjc830
-#EXTINF:0,MTV Guy Code
-https://stitcher.pluto.tv/stitch/hls/channel/5ca68acec16f7d78dc161fe1/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=fcuqage0urlhccbp8kbecjc830
-#EXTINF:0,MTV Hits
-http://91dfeb88.iptvzone.me/iptv/3RD7RBR9A3CVSX/153/index.m3u8
-#EXTINF:0,MTV Live
-http://91dfeb88.iptvzone.me/iptv/3RD7RBR9A3CVSX/221/index.m3u8
-#EXTINF:0,MTV Teen
-https://stitcher.pluto.tv/stitch/hls/channel/5ca68a4737b88b269472f1be/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=jcuqage0urlhccbp8kbecjc830
-#EXTINF:0,MU-Vi TV
-http://ios.cdn.bg:2013/fls/livetv.stream/playlist.m3u8?fluxustv.m3u8
-#EXTINF:0,Mult TV
-http://ott-cdn.ucom.am/s58/index.m3u8?fluxustv.m3u8
-#EXTINF:0,Music 24
-https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
-#EXTINF:0,Music Box
-http://212.26.132.86/hls/mb_ua_2500.m3u8?fluxustv.m3u8
-#EXTINF:0,Music Choice
-http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
-#EXTINF:0,Music Haneen
-http://streaming.i-sat.tv:1935/livestream/MusicAl-haneen/chunklist_w379649003.m3u8
-#EXTINF:0,Music Now
-http://livecdnh1.tvanywhere.ae/hls/music_now/index.m3u8
-#EXTINF:0,Music Top
-http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
-#EXTINF:0,My Cinema Channel
-http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
-#EXTINF:0,My Comedy
-http://free-iptv.pro:8000/LL121596/TOaNInWvKZ/16050
-#EXTINF:0,My Comedy (New!)
-http://free-iptv.pro:8000/LL121596/TOaNInWvKZ/16050
-#EXTINF:0,My Life TV
-https://edge1.dashmedia.tv/onestudio/my_life_4u/playlist.m3u8?fluxustv.m3u8
-#EXTINF:0,My TV
-http://167.99.65.12:1935/live/myStream/playlist.m3u8
-#EXTINF:0,Mystery Science Theater 3000
-http://stitcher.pluto.tv/stitch/hls/channel/545943f1c9f133a519bbac92/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=4&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:0,MyTV Cebu 30
-http://api.new.livestream.com/accounts/15418593/events/4787138/live.m3u8
-#EXTINF:0,MyTV Comedy (LB)
-http://185.228.19.115:8009/MyTV_Comedy/mono.m3u8?token=4xqfYjeH82
-#EXTINF:0,MyTV Movies 1 (LB)
-http://185.228.19.115:8009/MyTV_Aflam1/mono.m3u8?token=4xqfYjeH82
-#EXTINF:0,MyTV Movies 2 (LB)
-http://185.228.19.115:8009/MyTV_Aflam2/mono.m3u8?token=4xqfYjeH82
-#EXTINF:0,Nat Geo Kids AD
-http://free-iptv.pro:8000/LL121596/TOaNInWvKZ/18855
-#EXTINF:0,Nat Geo People (MENA)
-http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
-#EXTINF:0,Nat Geo Wild (MENA)
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
-#EXTINF:0,Nation TV (Opt-1)
-http://live.nationtv.tv/hls/ntv_th_sd.m3u8
-#EXTINF:0,Nation TV (Opt-2)
-http://live.nationtv.tv/hls/ntv_th_hd.m3u8
-#EXTINF:0,National Geographic (MENA)
-http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
-#EXTINF:0,NewTV Blockbusters
-http://183.207.249.14/PLTV/3/224/3221225535/index.m3u8
-#EXTINF:0,NewTV Comedy
-http://183.207.249.12/PLTV/3/224/3221225525/index.m3u8
-#EXTINF:0,NewTV Movies (Opt-1)
-http://183.251.61.198/PLTV/88888888/224/3221225804/index.m3u8
-#EXTINF:0,NewTV Movies (Opt-2)
-http://112.50.243.12/PLTV/88888888/224/3221225804/index.m3u8
-#EXTINF:0,Syria TV
-https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8
-#EXTINF:0,Syrian Drama TV (Opt-1)
-http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_drama
-#EXTINF:0,Syrian Drama TV (Opt-2)
-http://82.137.248.16:1935/Drama/stream20112018/playlist.m3u8
-#EXTINF:0,Syrian Education (Opt-1)
-http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_edu
-#EXTINF:0,Syrian Education (Opt-2)
-http://82.137.248.16:1935/SEdu/stream20112018/playlist.m3u8
-#EXTINF:0,Syrian News (Opt-1)
-http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_news
-#EXTINF:0,Syrian News (Opt-2)
-http://82.137.248.16:1935/Snews/stream20112018/playlist.m3u8
-#EXTINF:0,Syrian News (Opt-3)
-http://213.162.202.13:215
-#EXTINF:0,Syrian TV (Opt-1)
-http://82.137.248.16:1935/Sat/stream20112018/playlist.m3u8?fluxustv.m3u8
-#EXTINF:0,Syrian TV (Opt-2)
-http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syriatv
+#EXTINF:-1 tvg-id="" tvg-name="My- MBC1 HD" tvg-logo="" group-title="MBC",My- MBC1 HD
+http://188.72.4.230:8000/mytv/My1p@9090/40
+#EXTINF:-1 tvg-id="" tvg-name="My- MBC2 HD" tvg-logo="" group-title="MBC",My- MBC2 HD
+http://188.72.4.230:8000/mytv/My1p@9090/39
+#EXTINF:-1 tvg-id="" tvg-name="My- MBC3 HD" tvg-logo="" group-title="MBC",My- MBC3 HD
+http://188.72.4.230:8000/mytv/My1p@9090/38
+#EXTINF:-1 tvg-id="" tvg-name="My- MBC4 HD" tvg-logo="" group-title="MBC",My- MBC4 HD
+http://188.72.4.230:8000/mytv/My1p@9090/37
+#EXTINF:-1 tvg-id="" tvg-name="My- MBC Drama  HD" tvg-logo="" group-title="MBC",My- MBC Drama  HD
+http://188.72.4.230:8000/mytv/My1p@9090/31
+#EXTINF:-1 tvg-id="" tvg-name="My- MBC Drama HD" tvg-logo="" group-title="MBC",My- MBC Drama HD
+http://188.72.4.230:8000/mytv/My1p@9090/32
+#EXTINF:-1 tvg-id="" tvg-name="My- MBC MAX HD" tvg-logo="" group-title="MBC",My- MBC MAX HD
+http://188.72.4.230:8000/mytv/My1p@9090/29
+#EXTINF:-1 tvg-id="" tvg-name="My- MBC Bollywood HD" tvg-logo="" group-title="MBC",My- MBC Bollywood HD
+http://188.72.4.230:8000/mytv/My1p@9090/34
+#EXTINF:-1 tvg-id="" tvg-name="My- MBC Variety HD" tvg-logo="" group-title="MBC",My- MBC Variety HD
+http://188.72.4.230:8000/mytv/My1p@9090/33
+#EXTINF:-1 tvg-id="" tvg-name="My- MBC  Drama HD" tvg-logo="" group-title="MBC",My- MBC  Drama HD
+http://188.72.4.230:8000/mytv/My1p@9090/36
+#EXTINF:-1 tvg-id="" tvg-name="My- MBC Action HD" tvg-logo="" group-title="MBC",My- MBC Action HD
+http://188.72.4.230:8000/mytv/My1p@9090/35
+#EXTINF:-1 tvg-id="" tvg-name="My- MBC Masir2" tvg-logo="" group-title="MBC",My- MBC Masir2
+http://188.72.4.230:8000/mytv/My1p@9090/30
+#EXTINF:-1 tvg-id="" tvg-name="Ar- Rotana Aflam HD" tvg-logo="" group-title="Rotana",Ar- Rotana Aflam HD
+http://188.72.4.230:8000/mytv/My1p@9090/321
+#EXTINF:-1 tvg-id="" tvg-name="Ar- Rotana Cinema KSA HD" tvg-logo="" group-title="Rotana",Ar- Rotana Cinema KSA HD
+http://188.72.4.230:8000/mytv/My1p@9090/320
+#EXTINF:-1 tvg-id="" tvg-name="Ar- Rotana Classic HD" tvg-logo="" group-title="Rotana",Ar- Rotana Classic HD
+http://188.72.4.230:8000/mytv/My1p@9090/319
+#EXTINF:-1 tvg-id="" tvg-name="Ar- Rotana Drama HD" tvg-logo="" group-title="Rotana",Ar- Rotana Drama HD
+http://188.72.4.230:8000/mytv/My1p@9090/323
+#EXTINF:-1 tvg-id="" tvg-name="Ar- Rotana Khalijiah HD" tvg-logo="" group-title="Rotana",Ar- Rotana Khalijiah HD
+http://188.72.4.230:8000/mytv/My1p@9090/322
+#EXTINF:-1 tvg-id="" tvg-name="Ar- Rotana Music HD" tvg-logo="" group-title="Rotana",Ar- Rotana Music HD
+http://188.72.4.230:8000/mytv/My1p@9090/324
+
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport HD" tvg-logo="" group-title="Bein",Bein Sport HD
+http://188.72.4.230:8000/mytv/My1p@9090/126
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports HD1" tvg-logo="" group-title="Bein",Bein Sports HD1
+http://188.72.4.230:8000/mytv/My1p@9090/124
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports HD2" tvg-logo="" group-title="Bein",Bein Sports HD2
+http://188.72.4.230:8000/mytv/My1p@9090/123
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports HD3" tvg-logo="" group-title="Bein",Bein Sports HD3
+http://188.72.4.230:8000/mytv/My1p@9090/122
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports HD4" tvg-logo="" group-title="Bein",Bein Sports HD4
+http://188.72.4.230:8000/mytv/My1p@9090/121
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports HD5" tvg-logo="" group-title="Bein",Bein Sports HD5
+http://188.72.4.230:8000/mytv/My1p@9090/120
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports HD6" tvg-logo="" group-title="Bein",Bein Sports HD6
+http://188.72.4.230:8000/mytv/My1p@9090/119
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports HD7" tvg-logo="" group-title="Bein",Bein Sports HD7
+http://188.72.4.230:8000/mytv/My1p@9090/118
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports HD8" tvg-logo="" group-title="Bein",Bein Sports HD8
+http://188.72.4.230:8000/mytv/My1p@9090/117
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports HD9" tvg-logo="" group-title="Bein",Bein Sports HD9
+http://188.72.4.230:8000/mytv/My1p@9090/116
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports HD10" tvg-logo="" group-title="Bein",Bein Sports HD10
+http://188.72.4.230:8000/mytv/My1p@9090/115
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport HD11 EN" tvg-logo="" group-title="Bein",Bein Sport HD11 EN
+http://188.72.4.230:8000/mytv/My1p@9090/114
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport HD12 EN" tvg-logo="" group-title="Bein",Bein Sport HD12 EN
+http://188.72.4.230:8000/mytv/My1p@9090/113
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport HD13" tvg-logo="" group-title="Bein",Bein Sport HD13
+http://188.72.4.230:8000/mytv/My1p@9090/112
+#EXTINF:-1 tvg-id="" tvg-name="Bein Movies HD2" tvg-logo="" group-title="Bein",Bein Movies HD2
+http://188.72.4.230:8000/mytv/My1p@9090/106
+#EXTINF:-1 tvg-id="" tvg-name="Bein Movies HD3" tvg-logo="" group-title="Bein",Bein Movies HD3
+http://188.72.4.230:8000/mytv/My1p@9090/105
+#EXTINF:-1 tvg-id="" tvg-name="Bein Movies HD4" tvg-logo="" group-title="Bein",Bein Movies HD4
+http://188.72.4.230:8000/mytv/My1p@9090/104
+#EXTINF:-1 tvg-id="" tvg-name="Bein BBC Earth HD" tvg-logo="" group-title="Bein",Bein BBC Earth HD
+http://188.72.4.230:8000/mytv/My1p@9090/381
+#EXTINF:-1 tvg-id="" tvg-name="Bein Cartoon Network HD" tvg-logo="" group-title="Bein",Bein Cartoon Network HD
+http://188.72.4.230:8000/mytv/My1p@9090/84
+#EXTINF:-1 tvg-id="" tvg-name="Bein Discovery Kids HD" tvg-logo="" group-title="Bein",Bein Discovery Kids HD
+http://188.72.4.230:8000/mytv/My1p@9090/96
+#EXTINF:-1 tvg-id="" tvg-name="Bein Discovery Life HD" tvg-logo="" group-title="Bein",Bein Discovery Life HD
+http://188.72.4.230:8000/mytv/My1p@9090/94
+#EXTINF:-1 tvg-id="" tvg-name="Bein Discovery Max HD" tvg-logo="" group-title="Bein",Bein Discovery Max HD
+http://188.72.4.230:8000/mytv/My1p@9090/93
+#EXTINF:-1 tvg-id="" tvg-name="Bein Discovery Turbo Xtra" tvg-logo="" group-title="Bein",Bein Discovery Turbo Xtra
+http://188.72.4.230:8000/mytv/My1p@9090/95
+#EXTINF:-1 tvg-id="" tvg-name="Bein Fatafeat" tvg-logo="" group-title="Bein",Bein Fatafeat
+http://188.72.4.230:8000/mytv/My1p@9090/92
+#EXTINF:-1 tvg-id="" tvg-name="Bein Fine Living HD" tvg-logo="" group-title="Bein",Bein Fine Living HD
+http://188.72.4.230:8000/mytv/My1p@9090/382
+#EXTINF:-1 tvg-id="" tvg-name="Bein Food Network HD" tvg-logo="" group-title="Bein",Bein Food Network HD
+http://188.72.4.230:8000/mytv/My1p@9090/79
+#EXTINF:-1 tvg-id="" tvg-name="Bein Gourmet HD" tvg-logo="" group-title="Bein",Bein Gourmet HD
+http://188.72.4.230:8000/mytv/My1p@9090/91
+#EXTINF:-1 tvg-id="" tvg-name="Bein Nat Geo HD" tvg-logo="" group-title="Bein",Bein Nat Geo HD
+http://188.72.4.230:8000/mytv/My1p@9090/86
+#EXTINF:-1 tvg-id="" tvg-name="Bein Nat People" tvg-logo="" group-title="Bein",Bein Nat People
+http://188.72.4.230:8000/mytv/My1p@9090/88
+#EXTINF:-1 tvg-id="" tvg-name="Bein Nat Wild" tvg-logo="" group-title="Bein",Bein Nat Wild
+http://188.72.4.230:8000/mytv/My1p@9090/87
+#EXTINF:-1 tvg-id="" tvg-name="Bein Series 1 HD" tvg-logo="" group-title="Bein",Bein Series 1 HD
+http://188.72.4.230:8000/mytv/My1p@9090/129
+#EXTINF:-1 tvg-id="" tvg-name="Bein Series 2 HD" tvg-logo="" group-title="Bein",Bein Series 2 HD
+http://188.72.4.230:8000/mytv/My1p@9090/128
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport News HD" tvg-logo="" group-title="Bein",Bein Sport News HD
+http://188.72.4.230:8000/mytv/My1p@9090/125
+#EXTINF:-1 tvg-id="" tvg-name="Bein Travel HD" tvg-logo="" group-title="Bein",Bein Travel HD
+http://188.72.4.230:8000/mytv/My1p@9090/90
+
+#EXTINF:-1 tvg-id="" tvg-name="OSN Series Comedy HD" tvg-logo="" group-title="OSN",OSN Series Comedy HD
+http://188.72.4.230:8000/mytv/My1p@9090/51
+#EXTINF:-1 tvg-id="" tvg-name="OSN Series First HD" tvg-logo="" group-title="OSN",OSN Series First HD
+http://188.72.4.230:8000/mytv/My1p@9090/50
+#EXTINF:-1 tvg-id="" tvg-name="OSN Movies Disney HD" tvg-logo="" group-title="OSN",OSN Movies Disney HD
+http://188.72.4.230:8000/mytv/My1p@9090/60
+#EXTINF:-1 tvg-id="" tvg-name="OSN Movies First HD" tvg-logo="" group-title="OSN",OSN Movies First HD
+http://188.72.4.230:8000/mytv/My1p@9090/59
+#EXTINF:-1 tvg-id="" tvg-name="OSN Movies HD" tvg-logo="" group-title="OSN",OSN Movies HD
+http://188.72.4.230:8000/mytv/My1p@9090/58
+#EXTINF:-1 tvg-id="" tvg-name="OSN Action HD" tvg-logo="" group-title="OSN",OSN Action HD
+http://188.72.4.230:8000/mytv/My1p@9090/61
+#EXTINF:-1 tvg-id="" tvg-name="OSN Kids HD" tvg-logo="" group-title="OSN",OSN Kids HD
+http://188.72.4.230:8000/mytv/My1p@9090/57
+#EXTINF:-1 tvg-id="" tvg-name="OSN Enigma HD" tvg-logo="" group-title="OSN",OSN Enigma HD
+http://188.72.4.230:8000/mytv/My1p@9090/56
+#EXTINF:-1 tvg-id="" tvg-name="OSN Comedy Central" tvg-logo="" group-title="OSN",OSN Comedy Central
+http://188.72.4.230:8000/mytv/My1p@9090/41
+#EXTINF:-1 tvg-id="" tvg-name="My- Fox Crime HD" tvg-logo="" group-title="MyHD",My- Fox Crime HD
+http://188.72.4.230:8000/mytv/My1p@9090/18
+#EXTINF:-1 tvg-id="" tvg-name="Ar- Nat Geo AD HD" tvg-logo="" group-title="Arabic",Ar- Nat Geo AD HD
+http://188.72.4.230:8000/mytv/My1p@9090/359
+#EXTINF:-1 tvg-id="" tvg-name="Ar- MBC1 HD" tvg-logo="" group-title="Arabic",Ar- MBC1 HD
+http://188.72.4.230:8000/mytv/My1p@9090/311
+#EXTINF:-1 tvg-id="" tvg-name="Ar- MBC2 HD" tvg-logo="" group-title="Arabic",Ar- MBC2 HD
+http://188.72.4.230:8000/mytv/My1p@9090/310
+#EXTINF:-1 tvg-id="" tvg-name="Ar- MBC3 HD" tvg-logo="" group-title="Arabic",Ar- MBC3 HD
+http://188.72.4.230:8000/mytv/My1p@9090/309
+#EXTINF:-1 tvg-id="" tvg-name="Ar- MBC4 HD" tvg-logo="" group-title="Arabic",Ar- MBC4 HD
+http://188.72.4.230:8000/mytv/My1p@9090/308
+#EXTINF:-1 tvg-id="" tvg-name="Ar- MBC Max HD" tvg-logo="" group-title="Arabic",Ar- MBC Max HD
+http://188.72.4.230:8000/mytv/My1p@9090/304
+#EXTINF:-1 tvg-id="" tvg-name="Ar- MBC Action HD" tvg-logo="" group-title="Arabic",Ar- MBC Action HD
+http://188.72.4.230:8000/mytv/My1p@9090/307
+#EXTINF:-1 tvg-id="" tvg-name="Ar- MBC Bollywood HD" tvg-logo="" group-title="Arabic",Ar- MBC Bollywood HD
+http://188.72.4.230:8000/mytv/My1p@9090/303
+#EXTINF:-1 tvg-id="" tvg-name="Ar- MBC Drama  HD" tvg-logo="" group-title="Arabic",Ar- MBC Drama  HD
+http://188.72.4.230:8000/mytv/My1p@9090/305
+#EXTINF:-1 tvg-id="" tvg-name="Ar- MBC Drama HD" tvg-logo="" group-title="Arabic",Ar- MBC Drama HD
+http://188.72.4.230:8000/mytv/My1p@9090/306
+#EXTINF:-1 tvg-id="" tvg-name="Ar- MBC Iraq HD" tvg-logo="" group-title="Arabic",Ar- MBC Iraq HD
+http://188.72.4.230:8000/mytv/My1p@9090/302
+#EXTINF:-1 tvg-id="" tvg-name="Ar- MBC Masir 2" tvg-logo="" group-title="Arabic",Ar- MBC Masir 2
+http://188.72.4.230:8000/mytv/My1p@9090/300
+#EXTINF:-1 tvg-id="" tvg-name="Ar- MBC Masr" tvg-logo="" group-title="Arabic",Ar- MBC Masr
+http://188.72.4.230:8000/mytv/My1p@9090/301
+#EXTINF:-1 tvg-id="" tvg-name="Ar- AlJazeera HD" tvg-logo="" group-title="Arabic",Ar- AlJazeera HD
+http://188.72.4.230:8000/mytv/My1p@9090/354
+#EXTINF:-1 tvg-id="" tvg-name="Ar- Aljazeera Documents HD" tvg-logo="" group-title="Arabic",Ar- Aljazeera Documents HD
+http://188.72.4.230:8000/mytv/My1p@9090/351
+#EXTINF:-1 tvg-id="" tvg-name="Ar- Aljazeera English" tvg-logo="" group-title="Arabic",Ar- Aljazeera English
+http://188.72.4.230:8000/mytv/My1p@9090/353
+#EXTINF:-1 tvg-id="" tvg-name="Ar- Al Hadath HD" tvg-logo="" group-title="Arabic",Ar- Al Hadath HD
+http://188.72.4.230:8000/mytv/My1p@9090/298
+#EXTINF:-1 tvg-id="" tvg-name="Ar- Altaghier" tvg-logo="" group-title="Arabic",Ar- Altaghier
+http://188.72.4.230:8000/mytv/My1p@9090/376
+#EXTINF:-1 tvg-id="" tvg-name="Ar- BBC Arabic" tvg-logo="" group-title="Arabic",Ar- BBC Arabic
+http://188.72.4.230:8000/mytv/My1p@9090/348
+#EXTINF:-1 tvg-id="" tvg-name="Ar- BBC World HD" tvg-logo="" group-title="Arabic",Ar- BBC World HD
+http://188.72.4.230:8000/mytv/My1p@9090/347
+#EXTINF:-1 tvg-id="" tvg-name="Ar- B4U Plus" tvg-logo="" group-title="Arabic",Ar- B4U Plus
+http://188.72.4.230:8000/mytv/My1p@9090/363
+#EXTINF:-1 tvg-id="" tvg-name="Ar- Abu Dhabi Al Emarat" tvg-logo="" group-title="Arabic",Ar- Abu Dhabi Al Emarat
+http://188.72.4.230:8000/mytv/My1p@9090/357
+#EXTINF:-1 tvg-id="" tvg-name="Ar- Abu Dhabi Drama HD" tvg-logo="" group-title="Arabic",Ar- Abu Dhabi Drama HD
+http://188.72.4.230:8000/mytv/My1p@9090/356
+#EXTINF:-1 tvg-id="" tvg-name="Ar- AD Drama HD" tvg-logo="" group-title="Arabic",Ar- AD Drama HD
+http://188.72.4.230:8000/mytv/My1p@9090/358
+#EXTINF:-1 tvg-id="" tvg-name="Ar- AD Sport1 HD" tvg-logo="" group-title="Arabic",Ar- AD Sport1 HD
+http://188.72.4.230:8000/mytv/My1p@9090/336
+#EXTINF:-1 tvg-id="" tvg-name="Ar- AD Sport2 HD" tvg-logo="" group-title="Arabic",Ar- AD Sport2 HD
+http://188.72.4.230:8000/mytv/My1p@9090/335
+#EXTINF:-1 tvg-id="" tvg-name="Ar- AD Sport3 HD" tvg-logo="" group-title="Arabic",Ar- AD Sport3 HD
+http://188.72.4.230:8000/mytv/My1p@9090/334
+#EXTINF:-1 tvg-id="" tvg-name="Ar- AD Sport4 HD" tvg-logo="" group-title="Arabic",Ar- AD Sport4 HD
+http://188.72.4.230:8000/mytv/My1p@9090/333
+#EXTINF:-1 tvg-id="" tvg-name="Ar- AD Sport5 HD" tvg-logo="" group-title="Arabic",Ar- AD Sport5 HD
+http://188.72.4.230:8000/mytv/My1p@9090/332
+#EXTINF:-1 tvg-id="" tvg-name="Ar- AD Sport6 HD" tvg-logo="" group-title="Arabic",Ar- AD Sport6 HD
+http://188.72.4.230:8000/mytv/My1p@9090/331
+#EXTINF:-1 tvg-id="" tvg-name="Ar- Al Diyar" tvg-logo="" group-title="Arabic",Ar- Al Diyar
+http://188.72.4.230:8000/mytv/My1p@9090/379
+#EXTINF:-1 tvg-id="" tvg-name="Ar- Al Ghad Al Araby HD" tvg-logo="" group-title="Arabic",Ar- Al Ghad Al Araby HD
+http://188.72.4.230:8000/mytv/My1p@9090/349
+#EXTINF:-1 tvg-id="" tvg-name="Ar- Aljazeera Mubasher" tvg-logo="" group-title="Arabic",Ar- Aljazeera Mubasher
+http://188.72.4.230:8000/mytv/My1p@9090/352
+#EXTINF:-1 tvg-id="" tvg-name="Ar- Alsharqiya HD" tvg-logo="" group-title="Arabic",Ar- Alsharqiya HD
+http://188.72.4.230:8000/mytv/My1p@9090/378
+#EXTINF:-1 tvg-id="" tvg-name="Ar- Alwadi TV" tvg-logo="" group-title="Arabic",Ar- Alwadi TV
+http://188.72.4.230:8000/mytv/My1p@9090/375
+#EXTINF:-1 tvg-id="" tvg-name="Ar- Alyaum TV" tvg-logo="" group-title="Arabic",Ar- Alyaum TV
+http://188.72.4.230:8000/mytv/My1p@9090/342
+#EXTINF:-1 tvg-id="" tvg-name="Ar- B4U Aflam" tvg-logo="" group-title="Arabic",Ar- B4U Aflam
+http://188.72.4.230:8000/mytv/My1p@9090/362
+#EXTINF:-1 tvg-id="" tvg-name="Ar- Baghdad HD" tvg-logo="" group-title="Arabic",Ar- Baghdad HD
+http://188.72.4.230:8000/mytv/My1p@9090/377
+#EXTINF:-1 tvg-id="" tvg-name="Ar- CBC" tvg-logo="" group-title="Arabic",Ar- CBC
+http://188.72.4.230:8000/mytv/My1p@9090/373
+#EXTINF:-1 tvg-id="" tvg-name="Ar- CBC Drama" tvg-logo="" group-title="Arabic",Ar- CBC Drama
+http://188.72.4.230:8000/mytv/My1p@9090/372
+#EXTINF:-1 tvg-id="" tvg-name="Ar- CBC eXtra" tvg-logo="" group-title="Arabic",Ar- CBC eXtra
+http://188.72.4.230:8000/mytv/My1p@9090/370
+#EXTINF:-1 tvg-id="" tvg-name="Ar- CBC Sofra" tvg-logo="" group-title="Arabic",Ar- CBC Sofra
+http://188.72.4.230:8000/mytv/My1p@9090/371
+#EXTINF:-1 tvg-id="" tvg-name="Ar- CNN HD" tvg-logo="" group-title="Arabic",Ar- CNN HD
+http://188.72.4.230:8000/mytv/My1p@9090/346
+#EXTINF:-1 tvg-id="" tvg-name="Ar- DUBAI ONE" tvg-logo="" group-title="Arabic",Ar- DUBAI ONE
+http://188.72.4.230:8000/mytv/My1p@9090/361
+#EXTINF:-1 tvg-id="" tvg-name="Ar- Dubai Racing 1 HD" tvg-logo="" group-title="Arabic",Ar- Dubai Racing 1 HD
+http://188.72.4.230:8000/mytv/My1p@9090/327
+#EXTINF:-1 tvg-id="" tvg-name="Ar- Dubai Racing 2 HD" tvg-logo="" group-title="Arabic",Ar- Dubai Racing 2 HD
+http://188.72.4.230:8000/mytv/My1p@9090/326
+#EXTINF:-1 tvg-id="" tvg-name="Ar- Dubai Racing 3 HD" tvg-logo="" group-title="Arabic",Ar- Dubai Racing 3 HD
+http://188.72.4.230:8000/mytv/My1p@9090/325
+#EXTINF:-1 tvg-id="" tvg-name="Ar- Dubai Sport 1 HD" tvg-logo="" group-title="Arabic",Ar- Dubai Sport 1 HD
+http://188.72.4.230:8000/mytv/My1p@9090/330
+#EXTINF:-1 tvg-id="" tvg-name="Ar- Dubai Sport 2 HD" tvg-logo="" group-title="Arabic",Ar- Dubai Sport 2 HD
+http://188.72.4.230:8000/mytv/My1p@9090/329
+#EXTINF:-1 tvg-id="" tvg-name="Ar- Dubai Sport 3 HD" tvg-logo="" group-title="Arabic",Ar- Dubai Sport 3 HD
+http://188.72.4.230:8000/mytv/My1p@9090/328
+#EXTINF:-1 tvg-id="" tvg-name="Ar- DUBAI TV" tvg-logo="" group-title="Arabic",Ar- DUBAI TV
+http://188.72.4.230:8000/mytv/My1p@9090/360
+#EXTINF:-1 tvg-id="" tvg-name="Ar- DW HD" tvg-logo="" group-title="Arabic",Ar- DW HD
+http://188.72.4.230:8000/mytv/My1p@9090/343
+#EXTINF:-1 tvg-id="" tvg-name="Ar- Future TV" tvg-logo="" group-title="Arabic",Ar- Future TV
+http://188.72.4.230:8000/mytv/My1p@9090/314
+#EXTINF:-1 tvg-id="" tvg-name="Ar- Hurra HD" tvg-logo="" group-title="Arabic",Ar- Hurra HD
+http://188.72.4.230:8000/mytv/My1p@9090/344
+#EXTINF:-1 tvg-id="" tvg-name="Ar- Iraq Future TV" tvg-logo="" group-title="Arabic",Ar- Iraq Future TV
+http://188.72.4.230:8000/mytv/My1p@9090/380
+#EXTINF:-1 tvg-id="" tvg-name="Ar- KSA Sport  1 HD" tvg-logo="" group-title="Arabic",Ar- KSA Sport  1 HD
+http://188.72.4.230:8000/mytv/My1p@9090/338
+#EXTINF:-1 tvg-id="" tvg-name="Ar- KSA Sport  2 HD" tvg-logo="" group-title="Arabic",Ar- KSA Sport  2 HD
+http://188.72.4.230:8000/mytv/My1p@9090/337
+#EXTINF:-1 tvg-id="" tvg-name="Ar- KSA Sport 1 HD" tvg-logo="" group-title="Arabic",Ar- KSA Sport 1 HD
+http://188.72.4.230:8000/mytv/My1p@9090/340
+#EXTINF:-1 tvg-id="" tvg-name="Ar- KSA Sport 2 HD" tvg-logo="" group-title="Arabic",Ar- KSA Sport 2 HD
+http://188.72.4.230:8000/mytv/My1p@9090/339
+#EXTINF:-1 tvg-id="" tvg-name="Ar- LBC HD" tvg-logo="" group-title="Arabic",Ar- LBC HD
+http://188.72.4.230:8000/mytv/My1p@9090/318
+#EXTINF:-1 tvg-id="" tvg-name="Ar- Melody Classic" tvg-logo="" group-title="Arabic",Ar- Melody Classic
+http://188.72.4.230:8000/mytv/My1p@9090/369
+#EXTINF:-1 tvg-id="" tvg-name="Ar- MTV Lebanon HD" tvg-logo="" group-title="Arabic",Ar- MTV Lebanon HD
+http://188.72.4.230:8000/mytv/My1p@9090/317
+#EXTINF:-1 tvg-id="" tvg-name="Ar- Nat Geo Kids" tvg-logo="" group-title="Arabic",Ar- Nat Geo Kids
+http://188.72.4.230:8000/mytv/My1p@9090/355
+#EXTINF:-1 tvg-id="" tvg-name="Ar- Nile Cinema" tvg-logo="" group-title="Arabic",Ar- Nile Cinema
+http://188.72.4.230:8000/mytv/My1p@9090/368
+#EXTINF:-1 tvg-id="" tvg-name="Ar- Nile Comedy" tvg-logo="" group-title="Arabic",Ar- Nile Comedy
+http://188.72.4.230:8000/mytv/My1p@9090/367
+#EXTINF:-1 tvg-id="" tvg-name="Ar- Nile Culture" tvg-logo="" group-title="Arabic",Ar- Nile Culture
+http://188.72.4.230:8000/mytv/My1p@9090/366
+#EXTINF:-1 tvg-id="" tvg-name="Ar- ON Drama" tvg-logo="" group-title="Arabic",Ar- ON Drama
+http://188.72.4.230:8000/mytv/My1p@9090/374
+#EXTINF:-1 tvg-id="" tvg-name="Ar- One Lebonan TV" tvg-logo="" group-title="Arabic",Ar- One Lebonan TV
+http://188.72.4.230:8000/mytv/My1p@9090/316
+#EXTINF:-1 tvg-id="" tvg-name="Ar- Orient News" tvg-logo="" group-title="Arabic",Ar- Orient News
+http://188.72.4.230:8000/mytv/My1p@9090/312
+#EXTINF:-1 tvg-id="" tvg-name="Ar- OTV Lebonan" tvg-logo="" group-title="Arabic",Ar- OTV Lebonan
+http://188.72.4.230:8000/mytv/My1p@9090/315
+#EXTINF:-1 tvg-id="" tvg-name="Ar- Press TV HD" tvg-logo="" group-title="Arabic",Ar- Press TV HD
+http://188.72.4.230:8000/mytv/My1p@9090/341
+#EXTINF:-1 tvg-id="" tvg-name="Ar- RT Arabic HD" tvg-logo="" group-title="Arabic",Ar- RT Arabic HD
+http://188.72.4.230:8000/mytv/My1p@9090/345
+#EXTINF:-1 tvg-id="" tvg-name="Ar- Sky News Arabia HD" tvg-logo="" group-title="Arabic",Ar- Sky News Arabia HD
+http://188.72.4.230:8000/mytv/My1p@9090/350
+#EXTINF:-1 tvg-id="" tvg-name="Ar- Syria News TV" tvg-logo="" group-title="Arabic",Ar- Syria News TV
+http://188.72.4.230:8000/mytv/My1p@9090/313
+#EXTINF:-1 tvg-id="" tvg-name="Ar- Zee Aflam" tvg-logo="" group-title="Arabic",Ar- Zee Aflam
+http://188.72.4.230:8000/mytv/My1p@9090/365
+#EXTINF:-1 tvg-id="" tvg-name="Ar- ZEE Alwan" tvg-logo="" group-title="Arabic",Ar- ZEE Alwan
+http://188.72.4.230:8000/mytv/My1p@9090/364
+#EXTINF:-1 tvg-id="" tvg-name="Uk- Sky 1" tvg-logo="" group-title="UK",Uk- Sky 1
+http://188.72.4.230:8000/mytv/My1p@9090/213
+#EXTINF:-1 tvg-id="" tvg-name="Uk- Sky 2" tvg-logo="" group-title="UK",Uk- Sky 2
+http://188.72.4.230:8000/mytv/My1p@9090/212
+#EXTINF:-1 tvg-id="" tvg-name="Uk- Sky 4 Music" tvg-logo="" group-title="UK",Uk- Sky 4 Music
+http://188.72.4.230:8000/mytv/My1p@9090/183
+#EXTINF:-1 tvg-id="" tvg-name="Uk- Sky 5 USA" tvg-logo="" group-title="UK",Uk- Sky 5 USA
+http://188.72.4.230:8000/mytv/My1p@9090/182
+#EXTINF:-1 tvg-id="" tvg-name="Uk- Sky Animal Planet HD" tvg-logo="" group-title="UK",Uk- Sky Animal Planet HD
+http://188.72.4.230:8000/mytv/My1p@9090/181
+#EXTINF:-1 tvg-id="" tvg-name="Uk- Sky Arts 1 HD" tvg-logo="" group-title="UK",Uk- Sky Arts 1 HD
+http://188.72.4.230:8000/mytv/My1p@9090/185
+#EXTINF:-1 tvg-id="" tvg-name="Uk- Sky Atlantic" tvg-logo="" group-title="UK",Uk- Sky Atlantic
+http://188.72.4.230:8000/mytv/My1p@9090/184
+#EXTINF:-1 tvg-id="" tvg-name="Uk- Sky BBC Four HD" tvg-logo="" group-title="UK",Uk- Sky BBC Four HD
+http://188.72.4.230:8000/mytv/My1p@9090/203
+#EXTINF:-1 tvg-id="" tvg-name="UK- Sky BBC News" tvg-logo="" group-title="UK",UK- Sky BBC News
+http://188.72.4.230:8000/mytv/My1p@9090/207
+#EXTINF:-1 tvg-id="" tvg-name="Uk- Sky BBC One HD" tvg-logo="" group-title="UK",Uk- Sky BBC One HD
+http://188.72.4.230:8000/mytv/My1p@9090/206
+#EXTINF:-1 tvg-id="" tvg-name="Uk- Sky BBC Three HD" tvg-logo="" group-title="UK",Uk- Sky BBC Three HD
+http://188.72.4.230:8000/mytv/My1p@9090/204
+#EXTINF:-1 tvg-id="" tvg-name="Uk- Sky BBC Two HD" tvg-logo="" group-title="UK",Uk- Sky BBC Two HD
+http://188.72.4.230:8000/mytv/My1p@9090/205
+#EXTINF:-1 tvg-id="" tvg-name="Uk- Sky BT Sport 1 HD" tvg-logo="" group-title="UK",Uk- Sky BT Sport 1 HD
+http://188.72.4.230:8000/mytv/My1p@9090/200
+#EXTINF:-1 tvg-id="" tvg-name="Uk- Sky BT Sport 2 HD" tvg-logo="" group-title="UK",Uk- Sky BT Sport 2 HD
+http://188.72.4.230:8000/mytv/My1p@9090/199
+#EXTINF:-1 tvg-id="" tvg-name="Uk- Sky BT Sport 3 HD" tvg-logo="" group-title="UK",Uk- Sky BT Sport 3 HD
+http://188.72.4.230:8000/mytv/My1p@9090/198
+#EXTINF:-1 tvg-id="" tvg-name="Uk- Sky BT Sports Extra 1" tvg-logo="" group-title="UK",Uk- Sky BT Sports Extra 1
+http://188.72.4.230:8000/mytv/My1p@9090/197
+#EXTINF:-1 tvg-id="" tvg-name="Uk- Sky BT Sports Extra 2" tvg-logo="" group-title="UK",Uk- Sky BT Sports Extra 2
+http://188.72.4.230:8000/mytv/My1p@9090/196
+#EXTINF:-1 tvg-id="" tvg-name="Uk- Sky Discovery" tvg-logo="" group-title="UK",Uk- Sky Discovery
+http://188.72.4.230:8000/mytv/My1p@9090/180
+#EXTINF:-1 tvg-id="" tvg-name="Uk- Sky Discovery History" tvg-logo="" group-title="UK",Uk- Sky Discovery History
+http://188.72.4.230:8000/mytv/My1p@9090/179
+#EXTINF:-1 tvg-id="" tvg-name="Uk- Sky Discovery Science" tvg-logo="" group-title="UK",Uk- Sky Discovery Science
+http://188.72.4.230:8000/mytv/My1p@9090/178
+#EXTINF:-1 tvg-id="" tvg-name="Uk- Sky Discovery Shed" tvg-logo="" group-title="UK",Uk- Sky Discovery Shed
+http://188.72.4.230:8000/mytv/My1p@9090/177
+#EXTINF:-1 tvg-id="" tvg-name="Uk- Sky Disney Junior HD" tvg-logo="" group-title="UK",Uk- Sky Disney Junior HD
+http://188.72.4.230:8000/mytv/My1p@9090/176
+#EXTINF:-1 tvg-id="" tvg-name="Uk- Sky Disney XD HD" tvg-logo="" group-title="UK",Uk- Sky Disney XD HD
+http://188.72.4.230:8000/mytv/My1p@9090/175
+#EXTINF:-1 tvg-id="" tvg-name="Uk- Sky Eurosport 1 HD" tvg-logo="" group-title="UK",Uk- Sky Eurosport 1 HD
+http://188.72.4.230:8000/mytv/My1p@9090/195
+#EXTINF:-1 tvg-id="" tvg-name="Uk- Sky Eurosport 2 HD" tvg-logo="" group-title="UK",Uk- Sky Eurosport 2 HD
+http://188.72.4.230:8000/mytv/My1p@9090/194
+#EXTINF:-1 tvg-id="" tvg-name="Uk- Sky Food Network" tvg-logo="" group-title="UK",Uk- Sky Food Network
+http://188.72.4.230:8000/mytv/My1p@9090/174
+#EXTINF:-1 tvg-id="" tvg-name="Uk- Sky Good Food HD" tvg-logo="" group-title="UK",Uk- Sky Good Food HD
+http://188.72.4.230:8000/mytv/My1p@9090/187
+#EXTINF:-1 tvg-id="" tvg-name="Uk- Sky ITV 1" tvg-logo="" group-title="UK",Uk- Sky ITV 1
+http://188.72.4.230:8000/mytv/My1p@9090/211
+#EXTINF:-1 tvg-id="" tvg-name="Uk- Sky ITV 2" tvg-logo="" group-title="UK",Uk- Sky ITV 2
+http://188.72.4.230:8000/mytv/My1p@9090/210
+#EXTINF:-1 tvg-id="" tvg-name="Uk- Sky ITV 3" tvg-logo="" group-title="UK",Uk- Sky ITV 3
+http://188.72.4.230:8000/mytv/My1p@9090/209
+#EXTINF:-1 tvg-id="" tvg-name="Uk- Sky ITV 4" tvg-logo="" group-title="UK",Uk- Sky ITV 4
+http://188.72.4.230:8000/mytv/My1p@9090/208
+#EXTINF:-1 tvg-id="" tvg-name="Uk- Sky Movies 24" tvg-logo="" group-title="UK",Uk- Sky Movies 24
+http://188.72.4.230:8000/mytv/My1p@9090/186
+#EXTINF:-1 tvg-id="" tvg-name="Uk- Sky Movies Action HD" tvg-logo="" group-title="UK",Uk- Sky Movies Action HD
+http://188.72.4.230:8000/mytv/My1p@9090/189
+#EXTINF:-1 tvg-id="" tvg-name="Uk- Sky Nat Geo Wild HD" tvg-logo="" group-title="UK",Uk- Sky Nat Geo Wild HD
+http://188.72.4.230:8000/mytv/My1p@9090/173
+#EXTINF:-1 tvg-id="" tvg-name="Uk- Sky National Geographic HD" tvg-logo="" group-title="UK",Uk- Sky National Geographic HD
+http://188.72.4.230:8000/mytv/My1p@9090/172
+#EXTINF:-1 tvg-id="" tvg-name="Uk- Sky RTE One" tvg-logo="" group-title="UK",Uk- Sky RTE One
+http://188.72.4.230:8000/mytv/My1p@9090/188
+#EXTINF:-1 tvg-id="" tvg-name="Uk- Sky Sport Football" tvg-logo="" group-title="UK",Uk- Sky Sport Football
+http://188.72.4.230:8000/mytv/My1p@9090/192
+#EXTINF:-1 tvg-id="" tvg-name="Uk- Sky Sports Action HD" tvg-logo="" group-title="UK",Uk- Sky Sports Action HD
+http://188.72.4.230:8000/mytv/My1p@9090/191
+#EXTINF:-1 tvg-id="" tvg-name="Uk- Sky Sports Box Office HD" tvg-logo="" group-title="UK",Uk- Sky Sports Box Office HD
+http://188.72.4.230:8000/mytv/My1p@9090/190
+#EXTINF:-1 tvg-id="" tvg-name="Uk- Sky Sports Main Event HD" tvg-logo="" group-title="UK",Uk- Sky Sports Main Event HD
+http://188.72.4.230:8000/mytv/My1p@9090/193
+#EXTINF:-1 tvg-id="" tvg-name="Uk- Sky True Movies 1" tvg-logo="" group-title="UK",Uk- Sky True Movies 1
+http://188.72.4.230:8000/mytv/My1p@9090/202
+#EXTINF:-1 tvg-id="" tvg-name="Uk- Sky True Movies 2" tvg-logo="" group-title="UK",Uk- Sky True Movies 2
+http://188.72.4.230:8000/mytv/My1p@9090/201
