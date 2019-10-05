@@ -1,0 +1,287 @@
+#EXTM3U
+#EXTINF:0,MBC 1 (HD)
+http://livecdnh2.tvanywhere.ae/hls/mbc1/05.m3u8?fluxustv.m3u8
+#EXTINF:0,MBC 1 (SD)
+http://livecdnh2.tvanywhere.ae/hls/mbc1/index.m3u8?fluxustv.m3u8
+#EXTINF:0,MBC 2 (HD)
+http://livecdnh3.tvanywhere.ae/hls/mbc2/05.m3u8?fluxustv.m3u8
+#EXTINF:0,MBC 2 (SD)
+http://livecdnh3.tvanywhere.ae/hls/mbc2/index.m3u8?fluxustv.m3u8
+#EXTINF:0,MBC 3 (HD)
+http://livecdnh2.tvanywhere.ae/hls/mbc3/05.m3u8?fluxustv.m3u8
+#EXTINF:0,MBC 3 (SD)
+http://livecdnh2.tvanywhere.ae/hls/mbc3/index.m3u8?fluxustv.m3u8
+#EXTINF:0,MBC 4 (HD)
+http://livecdnh3.tvanywhere.ae/hls/mbc4/05.m3u8?fluxustv.m3u8
+#EXTINF:0,MBC 4 (SD)
+http://livecdnh3.tvanywhere.ae/hls/mbc4/index.m3u8?fluxustv.m3u8
+#EXTINF:0,MBC Action (HD)
+http://livecdnh3.tvanywhere.ae/hls/mbcaction/05.m3u8?fluxustv.m3u8
+#EXTINF:0,MBC Action (HD-2)
+http://free-iptv.pro:8000/LL121596/TOaNInWvKZ/2438
+#EXTINF:0,MBC Action (SD)
+http://livecdnh3.tvanywhere.ae/hls/mbcaction/index.m3u8?fluxustv.m3u8
+#EXTINF:0,MBC Bollywood (Opt-1)
+http://livecdnh2.tvanywhere.ae:80/hls/mbc_bolly/index.m3u8
+#EXTINF:0,MBC Bollywood (Opt-2)
+http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/index.m3u8
+#EXTINF:0,MBC Drama (HD)
+http://livecdnh2.tvanywhere.ae:80/hls/mbc_drama/05.m3u8
+#EXTINF:0,MBC Drama (SD)
+http://livecdnh2.tvanywhere.ae:80/hls/mbc_drama/index.m3u8
+#EXTINF:0,MBC Drama Plus
+http://free-iptv.pro:8000/LL121596/TOaNInWvKZ/10722
+#EXTINF:0,MBC Iraq (Opt-1)
+http://free-iptv.pro:8000/LL121596/TOaNInWvKZ/54971
+#EXTINF:0,MBC Iraq (Opt-2)
+http://95.170.215.103/hls/m3u8/MBC-IRAQ-Backup.m3u8
+#EXTINF:0,MBC Masr
+http://livecdnh2.tvanywhere.ae:80/hls/mbc_msr/index.m3u8
+#EXTINF:0,MBC Masr (Opt-2)
+http://livecdnh2.tvanywhere.ae/hls/mbc_msr/index.m3u8
+#EXTINF:0,MBC Max (HD)
+http://livecdnh3.tvanywhere.ae/hls/mbcmax/05.m3u8?fluxustv.m3u8
+#EXTINF:0,MBC Max (SD)
+http://livecdnh3.tvanywhere.ae/hls/mbcmax/index.m3u8?fluxustv.m3u8
+#EXTINF:0,MBC Variety
+http://free-iptv.pro:8000/LL121596/TOaNInWvKZ/8466
+#EXTINF:0,beIN Movies 1 (Opt-1)
+http://free-iptv.pro:8000/LL121596/TOaNInWvKZ/53418
+#EXTINF:0,beIN Movies 1 (Opt-2)
+http://free-iptv.pro:8000/LL121596/TOaNInWvKZ/53414
+#EXTINF:0,beIN Movies 2
+http://free-iptv.pro:8000/LL121596/TOaNInWvKZ/53419
+#EXTINF:0,beIN Movies 3
+http://free-iptv.pro:8000/LL121596/TOaNInWvKZ/53420
+#EXTINF:0,beIN Movies 4
+http://free-iptv.pro:8000/LL121596/TOaNInWvKZ/53423
+#EXTINF:0,beIN Series 1
+http://free-iptv.pro:8000/LL121596/TOaNInWvKZ/53421
+#EXTINF:0,beIN Series 2
+http://free-iptv.pro:8000/LL121596/TOaNInWvKZ/53422
+#EXTINF:0,beIN Sports 12
+http://free-iptv.pro:8000/LL121596/TOaNInWvKZ/33272
+#EXTINF:0,beIN Sports 6
+http://94.236.230.110:3333/6
+#EXTINF:0,beIN Sports 7
+http://free-iptv.pro:8000/LL121596/TOaNInWvKZ/33267
+#EXTINF:0,beIN Sports 8
+http://94.236.230.110:3333/8
+#EXTINF:0,beIN Sports 9
+http://free-iptv.pro:8000/LL121596/TOaNInWvKZ/33269
+#EXTINF:0,Rotana Aflam
+http://livecdnh3.tvanywhere.ae/hls/rotaflam/index.m3u8
+#EXTINF:0,Rotana Cinema
+http://livecdnh3.tvanywhere.ae/hls/rotcinema/index.m3u8
+#EXTINF:0,Rotana Classic
+http://livecdnh3.tvanywhere.ae/hls/rotclassic/index.m3u8
+#EXTINF:0,Rotana Clip
+http://livecdnh3.tvanywhere.ae/hls/rotclip/index.m3u8
+#EXTINF:0,Rotana Drama
+http://livecdnh3.tvanywhere.ae/hls/rotmas/index.m3u8
+#EXTINF:0,Rotana Khalijiah
+http://livecdnh3.tvanywhere.ae/hls/rotkhal/index.m3u8
+#EXTINF:0,Rotana Masrya
+http://livecdnh3.tvanywhere.ae/hls/rotmas/index.m3u8
+#EXTINF:0,Fox
+http://cdn2.bear-tv.com/freetv/TOT_foxthai_eng/playlist.m3u8
+#EXTINF:0,Fox
+https://1.ip2stream.icu/live/fox_hd/playlist.m3u8
+#EXTINF:0,Fox (Opt-1)
+http://streams.livetv.az/turk/fox_stream/playlist.m3u8
+#EXTINF:0,Fox (Opt-2)
+http://blutv-beta.akamaized.net/foxtvhd/foxtvhd.smil/playlist.m3u8
+#EXTINF:0,Fox Animation
+https://1.ip2stream.icu/live/fox_animation_hd/playlist.m3u8
+#EXTINF:0,Fox Comedy
+https://1.ip2stream.icu/live/fox_comedy_hd/chunks.m3u8
+#EXTINF:0,Fox Crime
+https://1.ip2stream.icu/live/fox_crime_hd/chunks.m3u8
+#EXTINF:0,Fox Life
+https://1.ip2stream.icu/live/fox_life_hd/playlist.m3u8
+#EXTINF:0,Fox Sports
+http://stitcher.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:0,Fox Sports
+http://45.58.62.92:8080
+#EXTINF:0,Fox TV
+http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
+#EXTINF:0,Hollywood Movies 1
+http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
+#EXTINF:0,Hollywood Movies 1
+http://185.228.19.115:8009/Movies1/mono.m3u8?token=4xqfYjeH82
+#EXTINF:0,Hollywood Movies 2
+http://185.228.19.115:8009/Movies2/mono.m3u8?token=4xqfYjeH82
+#EXTINF:0,Hollywood Movies 2
+http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
+#EXTINF:0,Hollywood Movies 3
+http://185.228.19.115:8009/Movies3/mono.m3u8?token=4xqfYjeH82
+#EXTINF:0,Hollywood Movies 3
+http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
+#EXTINF:0,Hollywood Movies 4
+https://aldirect.hls.huya.com/huyalive/30765679-2554414567-10971127025691000832-3048991638-10057-A-0-1_1200.m3u8
+#EXTINF:0,Hollywood Movies 4
+http://185.228.19.115:8009/Movies4/mono.m3u8?token=4xqfYjeH82
+#EXTINF:0,Hollywood Movies 5
+https://aldirect.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
+#EXTINF:0,Hollywood Movies 5
+http://185.228.19.115:8009/Movies5/mono.m3u8?token=4xqfYjeH82
+#EXTINF:0,Hollywood Movies 6
+http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
+#EXTINF:0,Hollywood Movies 6
+http://185.228.19.115:8009/Movies6/mono.m3u8?token=4xqfYjeH82
+#EXTINF:0,Hollywood Movies 7
+http://tx.hls.huya.com/huyalive/29106097-2689286606-11550398022340837376-2789274544-10057-A-0-1.m3u8
+#EXTINF:0,Hollywood Movies 8
+http://tx.hls.huya.com/huyalive/29106097-2689447600-11551089486305689600-2789274568-10057-A-1525420695-1.m3u8
+#EXTINF:0,Hollywood Movies 9
+http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
+#EXTINF:0,24-7 Retro TV
+http://247retrotv.com:1935/live/smil:247retro.smil/playlist.m3u8
+#EXTINF:0,24/7 Cased Closed
+https://al.flv.nimo.tv/live/su1599512427561r32f86ec41ff353df5fd649beb68e6388_mid.flv?fluxustv.flv
+#EXTINF:0,24/7 Doraemon
+https://ws.flv.nimo.tv/live/su1599512427553r467469e0bc83c5de73f4d151682fb530_high.flv?fluxustv.flv
+#EXTINF:0,24/7 Doraemon Films
+https://al.flv.nimo.tv/live/su1599512427578r00bac8d56488f6ca2d6915fb95ab88e8_high.flv?fluxustv.flv
+#EXTINF:0,24/7 Friends
+http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
+#EXTINF:0,24/7 Kuroko's Basketball
+http://aldirect.hls.huya.com/huyalive/94525224-2604793726-11187503865995984896-3049003148-10057-A-0-1_1200.m3u8
+#EXTINF:0,24/7 Los Simpson
+http://iptv.wtf:25461/live/arqxoxjd/ba6626FuzH/5571.m3u8
+#EXTINF:0,24/7 Marvel Movies
+http://tx.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1.m3u8
+#EXTINF:0,24/7 Resident Evil Movies
+https://aldirect.hls.huya.com/huyalive/28466698-2689654156-11551976637570482176-2847699186-10057-A-0-1_1200.m3u8
+#EXTINF:0,24/7 Scenes de Menages
+http://opus.cf/allfrtvstrm/tkn/scenes/i/index.m3u8?fluxustv.m3u8
+#EXTINF:0,24/7 Sci-Fi Movies
+http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
+#EXTINF:0,24/7 The Big Bang Theory
+https://aldirect.hls.huya.com/huyalive/29169025-2686221732-11537234488744476672-2847699168-10057-A-0-1_1200.m3u8
+#EXTINF:0,Al Arabiya
+http://www.elahmad.com/tv/m3u8/arabiya.m3u8?id=aa
+#EXTINF:0,Al Fajer
+http://vstream3.hadara.ps:8081/AlfajertvUN_web/web/playlist.m3u8?fluxustv.m3u8
+#EXTINF:0,Al Fajer 2
+http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/chunks.m3u8
+#EXTINF:0,Al Hadath
+http://streamer12.elementssys.com:8080/demo/Hadath/index.m3u8
+#EXTINF:0,Al Jadeed (Opt-1)
+http://livecdnh3.tvanywhere.ae/hls/jadeed/index.m3u8?fluxustv.m3u8
+#EXTINF:0,Al Jadeed (Opt-2)
+http://youness-export.com/tv/aljadeed
+#EXTINF:0,Al Jazeera (Opt-1)
+http://aljazeera-ara-apple-live.adaptive.level3.net/apple/aljazeera/arabic/800.m3u8
+#EXTINF:0,Al Jazeera (Opt-2)
+http://199.167.151.237:1935/live/sp15_1.stream/gmswf.m3u8
+#EXTINF:0,Al Jazeera (Opt-3)
+http://ott-cdn.ucom.am/s69/index.m3u8?fluxustv.m3u8
+#EXTINF:0,Al Jazeera (Opt-4)
+http://45.126.83.51/qwr9ew/s/s16/index.m3u8
+#EXTINF:0,Al Jazeera (QA) (Opt-1)
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
+#EXTINF:0,Al Jazeera (QA) (Opt-2)
+http://ott-cdn.ucom.am/s23/index.m3u8?fluxustv.m3u8
+#EXTINF:0,Al Jazeera (QA) (Opt-3)
+http://45.126.83.51/qwr9ew/s/s17/index.m3u8
+#EXTINF:0,Al Jazeera Balkans
+http://aljazeera-balkans-apple-live.adaptive.level3.net/apple/aljazeera/balkans/800.m3u8
+#EXTINF:0,Al Jazeera Mubasher
+http://aljazeera-mubasher-apple-live.adaptive.level3.net/apple/aljazeera/mubasher/300.m3u8
+#EXTINF:0,Al Kahera Wal Nas
+http://livecdnh2.tvanywhere.ae/hls/kahera_nas/04.m3u8
+#EXTINF:0,Al Mayadeen (Opt-1)
+http://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/chunklist_b1300000_t64NTc2cA==.m3u8
+#EXTINF:0,Al Mayadeen (Opt-2)
+http://95.170.215.109:80/hls/m3u8/MAYADEEN-Backup.m3u8
+#EXTINF:0,Al Nahar (CA)
+http://livecdnh2.tvanywhere.ae:80/hls/nahar_sd/03.m3u8
+#EXTINF:0,Al Nahar Drama (CA)
+http://livecdnh2.tvanywhere.ae:80/hls/nahar_sd_drama/03.m3u8
+#EXTINF:0,B4U Aflam
+http://livecdnh3.tvanywhere.ae/hls/b4uaflam/index.m3u8
+#EXTINF:0,Movie Kingdom (New!)
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
+#EXTINF:0,Movies 1
+http://stitcher.pluto.tv/stitch/hls/channel/564b9ed65fbbbca07e8d09d2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=4eeea560-71a7-11e8-bcb5-a1b59b812cd7&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:0,Movies 2
+http://stitcher.pluto.tv/stitch/hls/channel/59976841a09fd13c9b590ce8/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:0,MTN
+http://edge1.everyon.tv:1935/etv1sb/phd18/playlist.m3u8
+#EXTINF:0,MTV
+https://stitcher.pluto.tv/stitch/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=dcuqage0urlhccbp8kbecjc830
+#EXTINF:0,MTV
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:0,MTV
+http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8?fluxustv.m3u8
+#EXTINF:0,MTV (Opt-1)
+http://livecdnh3.tvanywhere.ae/hls/MTVLbnHD/index.m3u8
+#EXTINF:0,MTV (Opt-2)
+http://95.170.215.109/hls/MTV-Backup-M.m3u8
+#EXTINF:0,MTV Dance
+http://91dfeb88.iptvzone.me/iptv/3RD7RBR9A3CVSX/558/index.m3u8
+#EXTINF:0,MTV Dating
+https://stitcher.pluto.tv/stitch/hls/channel/5ca6899a37b88b269472ea4b/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=hcuqage0urlhccbp8kbecjc830
+#EXTINF:0,MTV Guy Code
+https://stitcher.pluto.tv/stitch/hls/channel/5ca68acec16f7d78dc161fe1/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=fcuqage0urlhccbp8kbecjc830
+#EXTINF:0,MTV Hits
+http://91dfeb88.iptvzone.me/iptv/3RD7RBR9A3CVSX/153/index.m3u8
+#EXTINF:0,MTV Live
+http://91dfeb88.iptvzone.me/iptv/3RD7RBR9A3CVSX/221/index.m3u8
+#EXTINF:0,MTV Teen
+https://stitcher.pluto.tv/stitch/hls/channel/5ca68a4737b88b269472f1be/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=jcuqage0urlhccbp8kbecjc830
+#EXTINF:0,Music 24
+https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
+#EXTINF:0,Music Box
+http://212.26.132.86/hls/mb_ua_2500.m3u8?fluxustv.m3u8
+#EXTINF:0,Music Choice
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+#EXTINF:0,Music Haneen
+http://streaming.i-sat.tv:1935/livestream/MusicAl-haneen/chunklist_w379649003.m3u8
+#EXTINF:0,Music Now
+http://livecdnh1.tvanywhere.ae/hls/music_now/index.m3u8
+#EXTINF:0,Music Top
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+#EXTINF:0,My Cinema Channel
+http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
+#EXTINF:0,My Comedy
+http://free-iptv.pro:8000/LL121596/TOaNInWvKZ/16050
+#EXTINF:0,My Comedy
+http://free-iptv.pro:8000/LL121596/TOaNInWvKZ/16050
+#EXTINF:0,My Life TV
+https://edge1.dashmedia.tv/onestudio/my_life_4u/playlist.m3u8?fluxustv.m3u8
+#EXTINF:0,My TV
+http://167.99.65.12:1935/live/myStream/playlist.m3u8
+#EXTINF:0,Mystery Science Theater 3000
+http://stitcher.pluto.tv/stitch/hls/channel/545943f1c9f133a519bbac92/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=4&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:0,MyTV Cebu 30
+http://api.new.livestream.com/accounts/15418593/events/4787138/live.m3u8
+#EXTINF:0,MyTV Comedy (LB)
+http://185.228.19.115:8009/MyTV_Comedy/mono.m3u8?token=4xqfYjeH82
+#EXTINF:0,MyTV Movies 1 (LB)
+http://185.228.19.115:8009/MyTV_Aflam1/mono.m3u8?token=4xqfYjeH82
+#EXTINF:0,MyTV Movies 2 (LB)
+http://185.228.19.115:8009/MyTV_Aflam2/mono.m3u8?token=4xqfYjeH82
+#EXTINF:0,Nat Geo Kids AD
+http://free-iptv.pro:8000/LL121596/TOaNInWvKZ/18855
+#EXTINF:0,Nat Geo People (MENA)
+http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
+#EXTINF:0,Nat Geo Wild (MENA)
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+#EXTINF:0,Nation TV (Opt-1)
+http://live.nationtv.tv/hls/ntv_th_sd.m3u8
+#EXTINF:0,Nation TV (Opt-2)
+http://live.nationtv.tv/hls/ntv_th_hd.m3u8
+#EXTINF:0,National Geographic (MENA)
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
+#EXTINF:0,OTV (Opt-1)
+http://youness-export.com/tv/otv
+#EXTINF:0,OTV (Opt-3)
+http://95.170.215.109/hls/m3u8/OTV-Backup.m3u8
+#EXTINF:0,Sky Cinema Collection
+https://1.ip2stream.icu/live/sky_cinema_hits_hd/playlist.m3u8
+#EXTINF:0,Sky Cinema Comedy
+https://1.ip2stream.icu/live/sky_cinema_comedy_hd/playlist.m3u8
+#EXTINF:0,Sky Cinema Family
+https://1.ip2stream.icu/live/sky_cinema_family_hd/playlist.m3u8
